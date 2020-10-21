@@ -15,3 +15,5 @@ In short, when you submit code changes, your submissions are understood to be un
   * Wait for the maintainers to assign it to you 
   (This will make sure that someone else is not already working on it and will save everyone's time)
   * After you've been assigned you can work on it and then create a Pull request to get your changes merged
+  * DO NOT create a pull request unless you have been assigned an issue else it will be marked invalid
+  * Provide the output screenshot (if possible) in the comment while creating a pull request 
